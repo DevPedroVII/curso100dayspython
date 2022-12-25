@@ -4,6 +4,7 @@ if height > 120:
     print ("Good You can ride the rollercoaster !!!")
 else:
     print("how bad you can't ride the roller coaster")
+#if sempre vem na frente do else
 
 #operators
 
