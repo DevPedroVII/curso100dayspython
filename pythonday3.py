@@ -15,8 +15,7 @@ else:
    #     ha
 #else:
 # NO HAHA
-
-
+#**é bom utilizar de fluxograms**
 
 #operators
 
