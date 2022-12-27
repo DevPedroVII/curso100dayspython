@@ -7,12 +7,7 @@
 #== equal to
 #!= not equal to
 
-print ("Welcome to the Rollercoaster!")
-height = int(input("what is  your height ib CM? "))
-if height > 120:
-    print ("Good You can ride the rollercoaster !!!")
-else:
-    print("how bad you can't ride the roller coaster")
+
 #if sempre vem na frente do else
 
 # if pode obter mais um if/else
@@ -29,7 +24,24 @@ else:
 # elif
 
 # elif pode ser add varias vezes no mesmo codigo DIFERENTE do  if e do else
-# IF / ELIFS / ELSE
+# IF / ELIFS / ELSE ex:
+
+print ("Welcome to the Rollercoaster!")
+height = int(input("what is  your height ib CM? "))
+age = (int(input("what is your age? ")))
+if  age < 12 :
+    print("Please pay $5")
+elif  age <= 18 :
+    print("Please pay $7")
+elif  age > 18 :
+    print("Please pay $12")
+else :
+    print("I'm sorry you can't go")
+if height >= 120:
+    print ("Good You can ride the rollercoaster !!!")
+
+else:
+    print("how bad you can't ride the roller coaster")
 
 
 
