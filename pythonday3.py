@@ -29,12 +29,16 @@
 print ("Welcome to the Rollercoaster!")
 height = int(input("what is  your height ib CM? "))
 age = (int(input("what is your age? ")))
+bill = 0
 if  age < 12 :
+    bill = 5
     print("Please pay $5")
 elif  age <= 18 :
+    bill = 7
     print("Please pay $7")
 elif  age > 18 :
-    print("Please pay $12")
+     bill = 12
+     print("Please pay $12")
 else :
     print("I'm sorry you can't go")
 if height >= 120:
