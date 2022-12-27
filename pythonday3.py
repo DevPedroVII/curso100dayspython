@@ -6,6 +6,18 @@ else:
     print("how bad you can't ride the roller coaster")
 #if sempre vem na frente do else
 
+# if pode obter mais um if/else
+# exp:
+# if conditin:
+   # if another cond:
+   #    haha
+   # else:
+   #     ha
+#else:
+# NO HAHA
+
+
+
 #operators
 
 #< greater than
@@ -14,3 +26,5 @@ else:
 #<= less than or equal to
 #== equal to
 #!= not equal to
+
+
