@@ -26,6 +26,7 @@
 # elif pode ser add varias vezes no mesmo codigo DIFERENTE do  if e do else
 # IF / ELIFS / ELSE ex:
 
+
 print ("Welcome to the Rollercoaster!")
 height = int(input("what is  your height ib CM? "))
 bill = 0
@@ -53,6 +54,12 @@ else:
     print("how bad you can't ride the roller coaster")
 
 
+#logical operators
+
+#and / not / or
+#and é utilizadas quando ambas as afirmaçoes sao True
+#or é utilizado quando é uma true e outra false
+#not é utilizado para false apenas
 
 
 
