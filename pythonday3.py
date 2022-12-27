@@ -1,3 +1,12 @@
+#operators
+
+#< greater than
+#< less than
+#>= greater than or equal to
+#<= less than or equal to
+#== equal to
+#!= not equal to
+
 print ("Welcome to the Rollercoaster!")
 height = int(input("what is  your height ib CM? "))
 if height > 120:
@@ -17,13 +26,14 @@ else:
 # NO HAHA
 #**é bom utilizar de fluxograms**
 
-#operators
+# elif
 
-#< greater than
-#< less than
-#>= greater than or equal to
-#<= less than or equal to
-#== equal to
-#!= not equal to
+# elif pode ser add varias vezes no mesmo codigo DIFERENTE do  if e do else
+# IF / ELIFS / ELSE
+
+
+
+
+
 
 
