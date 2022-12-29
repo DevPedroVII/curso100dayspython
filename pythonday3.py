@@ -61,6 +61,12 @@ else:
 #or é utilizado quando é uma true e outra false
 #not é utilizado para false apenas
 
+#logical operators
+
+#and / not / or
+#and é utilizadas quando ambas as afirmaçoes sao True
+#or é utilizado quando é uma true e outra false
+#not é utilizado para false apenas
 
 
 
