@@ -21,4 +21,5 @@
 # cherry
 
 #posso editar itens de uma lista usando um codigo externo
-# fruits[2] = "dogs"
+# fruits[1] = "dogs"
+# melon, dogs, cherry
