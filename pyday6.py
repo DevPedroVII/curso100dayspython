@@ -19,3 +19,6 @@
 # ex fruits = [ "melon","banana", "cherry"...]
 # print(fruits[-1])
 # cherry
+
+#posso editar itens de uma lista usando um codigo externo
+# fruits[2] = "dogs"
