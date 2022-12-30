@@ -5,7 +5,10 @@
 # para utilizar os modulos é so necessario dar um import em cada page
 
 #
-name = input("whats is your name ? ")
+name = input("what's your name ?? ")
+
+print("hello " + name + " welcome to coin game \n")
+
 
 import random
 
