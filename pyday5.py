@@ -5,6 +5,7 @@
 # para utilizar os modulos é so necessario dar um import em cada page
 
 #
+print(input("whats is your name ? "))
 
 import random
 
@@ -14,3 +15,4 @@ if random_side == 1:
     print("heads")
 else:
     print("tails")
+
