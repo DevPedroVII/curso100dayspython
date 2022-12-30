@@ -5,7 +5,7 @@
 # para utilizar os modulos é so necessario dar um import em cada page
 
 #
-print(input("whats is your name ? "))
+name = input("whats is your name ? ")
 
 import random
 
