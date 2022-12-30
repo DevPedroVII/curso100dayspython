@@ -23,3 +23,6 @@
 #posso editar itens de uma lista usando um codigo externo
 # fruits[1] = "dogs"
 # melon, dogs, cherry
+
+
+#list Site https://docs.python.org/3/tutorial/datastructures.html
