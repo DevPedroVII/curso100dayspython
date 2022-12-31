@@ -19,3 +19,4 @@ if random_side == 1:
 else:
     print("tails")
 
+
