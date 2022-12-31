@@ -12,3 +12,6 @@
 #ela será interpretada como um número complexo.
 #Neste caso, o segundo parâmetro não deve ser passado.
 #https://www.programiz.com/python-programming/methods/built-in/complex
+
+#site para buscar conteudo de ensino https://wiki.python.org.br/AprendaMais
+
