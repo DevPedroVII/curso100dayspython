@@ -14,4 +14,5 @@
 #https://www.programiz.com/python-programming/methods/built-in/complex
 
 #site para buscar conteudo de ensino https://wiki.python.org.br/AprendaMais
-11122142635
+
+yhtgyhfyh
