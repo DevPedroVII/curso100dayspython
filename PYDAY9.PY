@@ -120,3 +120,12 @@ nome = 'João da Silva'
 print(nome)
 
 #  *Na versão 3 do Python, isso não é necessário.*
+
+## curiosidade
+
+# UTF-8 code
+
+#UTF-8 (UCS Transformation Format 8) é a codificação de caracteres mais
+# comum da World Wide Web. Cada caractere é representado por um a quatro bytes.
+# UTF-8 é compatível com versões anteriores do ASCII e
+# pode representar qualquer caractere Unicode padrão
