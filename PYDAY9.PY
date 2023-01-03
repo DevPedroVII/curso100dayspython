@@ -1,4 +1,4 @@
-I#mutabilidade
+#mutabilidade
 #Uma string no Python é uma sequência de caracteres imutável.
 
 #para ver como isso ocorre na prática,
@@ -92,3 +92,12 @@ nova_mensagem = mensagem.upper()
 
 print(nova_mensagem) # EU GOSTO DE PYTHON
 
+#Método lower()
+
+#Com o método lower(), retornamos uma cópia da string com todas as letras maiúsculas convertidas
+# em minúsculas. Vejamos o Código
+
+mensagem = 'eu gosto de Python'
+nova_mensagem = mensagem.lower()
+
+print(nova_mensagem) # eu gosto de python
