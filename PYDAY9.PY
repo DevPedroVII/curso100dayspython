@@ -81,3 +81,9 @@ print(nova_mensagem) # ['Estou', 'aprendendo', 'Python', 'na', 'DevMedia']
 # será gerado com a mensagem ValueError: empty separator.
 # Se as aspas não forem usadas com split(), a função considerará o espaço em branco como separador.
 
+#Método upper()
+
+#Com o método upper() retornamos uma cópia
+#da string com todas as letras minúsculas convertidas em maiúsculas.
+# Segue no Código
+
