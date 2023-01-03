@@ -101,3 +101,12 @@ mensagem = 'eu gosto de Python'
 nova_mensagem = mensagem.lower()
 
 print(nova_mensagem) # eu gosto de python
+
+#Acentuação no Python
+#Para podermos usar acentuação no Python, devemos definir a codificação utf-8
+
+nome = 'João da Silva'
+print(nome)
+
+#O código acima irá gerar o seguinte erro: SyntaxError: Non-ASCII character
+# '\xc3' que é gerado devido ao caractere acentuado que usamos na variável nome.
