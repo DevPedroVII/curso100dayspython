@@ -105,8 +105,18 @@ print(nova_mensagem) # eu gosto de python
 #Acentuação no Python
 #Para podermos usar acentuação no Python, devemos definir a codificação utf-8
 
-nome = 'João da Silva'
-print(nome)
+#nome = 'João da Silva'
+#print(nome)
 
 #O código acima irá gerar o seguinte erro: SyntaxError: Non-ASCII character
 # '\xc3' que é gerado devido ao caractere acentuado que usamos na variável nome.
+
+#para resolver esse
+#problema, podemos usar
+#  #coding: utf-8 no início do código, de acordo com que é instruído na documentação
+
+# coding: utf-8
+nome = 'João da Silva'
+print(nome)
+
+#  *Na versão 3 do Python, isso não é necessário.*
