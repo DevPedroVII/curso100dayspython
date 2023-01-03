@@ -87,3 +87,8 @@ print(nova_mensagem) # ['Estou', 'aprendendo', 'Python', 'na', 'DevMedia']
 #da string com todas as letras minúsculas convertidas em maiúsculas.
 # Segue no Código
 
+mensagem = 'eu gosto de Python'
+nova_mensagem = mensagem.upper()
+
+print(nova_mensagem) # EU GOSTO DE PYTHON
+
