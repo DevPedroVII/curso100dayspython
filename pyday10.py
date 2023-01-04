@@ -41,3 +41,10 @@ for i in range(3, 15, 2):
 
 #Se nenhum argumento for dado, o construtor
 # cria uma nova lista vazia, [].
+
+#Casos de uso
+
+#Tipicamente, usamos list() para criar listas a partir de iteráveis existentes
+# , como strings, dicionários ou tuplas.
+#Você normalmente verá colchetes [] sendo usados para criar listas vazias em Python,
+# pois essa sintaxe é mais concisa e mais rápida.
