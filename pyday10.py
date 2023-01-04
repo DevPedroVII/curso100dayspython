@@ -24,3 +24,20 @@ else:
 #Em geral:Se a lista não está vazia, a verificação gera True,
 # então a instrução de if é executada.
 #Se a lista está vazia, a verificação gera False, então a instrução de else é executada.
+
+
+num = []
+for i in range(3, 15, 2):
+	num.append(i)
+
+#Verificamos o valor da variável para ver se os itens foram
+# adicionados com sucesso e confirmamos
+# que a lista não está mais vazia.
+
+#list()
+
+#Como alternativa, você pode criar uma lista vazia com o
+# construtor de tipo list(), que cria um novo objeto de lista.
+
+#Se nenhum argumento for dado, o construtor
+# cria uma nova lista vazia, [].
