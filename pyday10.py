@@ -48,3 +48,11 @@ for i in range(3, 15, 2):
 # , como strings, dicionários ou tuplas.
 #Você normalmente verá colchetes [] sendo usados para criar listas vazias em Python,
 # pois essa sintaxe é mais concisa e mais rápida.
+
+
+#Você pode criar uma lista vazia usando um par vazio de colchetes [] ou com o construtor de tipo list(),
+# uma função integrada que cria uma lista vazia quando nenhum argumento é passado.
+
+#Os colchetes [] são normalmente usados em Python para criar
+# listas vazias porque são mais rápidos
+# e mais concisos.

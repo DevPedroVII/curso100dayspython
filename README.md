@@ -14,3 +14,6 @@ https://www.devmedia.com.br/python-estrutura-condicional-if-else/38217
 #3
 https://www.askpython.com/
 
+#4
+https://www.freecodecamp.org/portuguese/news/tutorial-de-listas-vazias-em-python-como-criar-uma-lista-vazia-em-python/#:~:text=Voc%C3%AA%20pode%20criar%20uma%20lista%20vazia%20usando%20um%20par%20vazio,mais%20r%C3%A1pidos%20e%20mais%20concisos.
+
