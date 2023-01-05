@@ -31,3 +31,7 @@ https://www.w3schools.com/python/python_ref_keywords.asp
 ## 7
 LOOPS
 https://www.hashtagtreinamentos.com/estruturas-de-repeticao-python?gclid=CjwKCAiAh9qdBhAOEiwAvxIokzS8iVN9FY1D2rF18r349zwvC7JhpPdi0oy5whNF0verG7xTJmGnPBoC708QAvD_BwE
+
+## 8
+FOR LOOP
+https://blog.betrybe.com/python/python-for/#2
