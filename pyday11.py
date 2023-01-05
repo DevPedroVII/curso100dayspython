@@ -32,7 +32,4 @@ print(multi_line_string)
 # o argumento do método. Se não houver nenhum argumento dado,
 # ele simplesmente remove os espaços em branco principais.
 
-import re
-demo = " Demo  Example  "
-re.sub(r"^\s+", "", demo)
-"Demo  Example  "
+
