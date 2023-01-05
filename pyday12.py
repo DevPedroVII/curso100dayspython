@@ -10,3 +10,10 @@ for x in fruits:
   print(x)
 if "banana" in fruits:
   print("yes")
+
+
+#Laços de repetições
+
+#Uma estrutura de repetição em Python é um recurso para
+# desenvolver tarefas repetitivas em um loop contínuo.
+# O loop funciona até uma condição ser satisfeita.
