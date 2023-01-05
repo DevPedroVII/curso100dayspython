@@ -21,3 +21,6 @@ https://www.freecodecamp.org/portuguese/news/tutorial-de-listas-vazias-em-python
 #Python tutor é um bom lugar o para se testar os codigos
 https://pythontutor.com/visualize.html#mode=edit
 
+## 6
+https://www.w3schools.com/python/python_ref_keywords.asp
+
