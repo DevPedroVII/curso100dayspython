@@ -32,3 +32,15 @@ if "banana" in fruits:
 
 # * for <item> in <conjunto_de_itens>:
 #    <bloco_de_codigo> *
+
+#item: corresponde a cada elemento presente na variável que permite a iteração;
+
+#conjunto_de_itens: pode ser uma lista, uma string, uma tupla,
+# um dicionário ou um objeto que permita iterações.
+
+frutas = ['Abacaxi', 'Morango', 'Uva']
+for fruta in frutas:
+    print(fruta)
+
+for fruta in ['Abacaxi', 'Morango', 'Uva']:
+    print(fruta)
