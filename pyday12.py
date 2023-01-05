@@ -72,3 +72,30 @@ for pessoa in pessoas:
     if pessoa['nome'] == 'Maria':
         print(pessoa['nome'], "mora em", pessoa['cidade'])
         break
+
+# range()
+
+#A função range() retorna
+#uma série de números consecutivos. Por padrão,
+#ela inicia no número 0 e é incrementada adicionando 1.
+
+#A função range() é utilizada na estrutura de repetição for para executarmos
+# um determinado conjunto de instruções pela
+# quantidade de vezes indicadas na função. Veja um exemplo:
+
+for numero in range(10):
+    if numero % 2 == 0:
+        print("O número", numero, "é par")
+
+# else
+
+#A estrutura de repetição for também pode ser utilizada com a cláusula else.
+# Na prática, ela funciona quando o loop é encerrado sem nenhuma interrupção,
+# como se utilizássemos a instrução break.
+# É importante dizer que a cláusula else na estrutura de repetição for é opcional.
+
+frutas = ['Abacaxi', 'Morango', 'Uva']
+for fruta in frutas:
+    print(fruta)
+else:
+    print("Laço de repetição finalizado.")
