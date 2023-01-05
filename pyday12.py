@@ -48,3 +48,14 @@ for fruta in ['Abacaxi', 'Morango', 'Uva']:
 #BREAK
 
 #break a execução do loop ao encontrar uma condição específica.
+
+#Devemos utilizar a instrução break
+# em conjunto com uma estrutura condicional,
+# como a if/else ou até mesmo com outro laço de repetição for.
+
+#EX
+#for <item> in <conjunto_de_itens>:
+#    <bloco_de_codigo>
+#    if <condicao_verdadeira>:
+#         <outras_instrucoes>
+#         break
