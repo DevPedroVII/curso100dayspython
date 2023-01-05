@@ -44,3 +44,7 @@ for fruta in frutas:
 
 for fruta in ['Abacaxi', 'Morango', 'Uva']:
     print(fruta)
+
+#BREAK
+
+#break a execução do loop ao encontrar uma condição específica.
