@@ -35,3 +35,7 @@ https://www.hashtagtreinamentos.com/estruturas-de-repeticao-python?gclid=CjwKCAi
 ## 8
 FOR LOOP
 https://blog.betrybe.com/python/python-for/#2
+
+## 9
+WHILE TRUE
+https://www.geeksforgeeks.org/how-to-use-while-true-in-python/
