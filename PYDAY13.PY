@@ -1,11 +1,11 @@
-#while True em Python
+  ##while True em Python
 
 #O loop while é usado para executar um bloco
 # de código repetidamente até que determinada condição booleana
 # seja avaliada como False.
 # Se escrevermos enquanto True, o loop será executado para sempre.
 
-#while True:
+# while True:
  #   pass
 
 #Se executarmos o código acima, esse loop será executado
@@ -33,7 +33,7 @@ print(f"Sum of First 10 Numbers is {Sum}")
 # então o loop será executado para sempre e começará a
 # adicionar os valores negativos de N à soma.
 
-#slice() Function
+ ##slice() Function
 
 #A slice()função retorna um objeto de fatia.
 
@@ -48,3 +48,12 @@ print(f"Sum of First 10 Numbers is {Sum}")
 a = ("a", "b", "c", "d", "e", "f", "g", "h")
 x = slice(3, 5)
 print(a[x])
+
+ ## Criação de matrizes
+
+#Matrizes são estruturas bidimensionais (tabelas) com m linhas por n colunas muito importantes na matemática,
+#utilizadas por exemplo para a resolução de sistemas de equações e transformações lineares.
+
+#Em Python, uma matriz pode ser representada como uma lista de listas,
+# onde um elemento da lista contém uma linha da matriz,
+# que por sua vez corresponde a uma lista com os elementos da coluna da matriz.
