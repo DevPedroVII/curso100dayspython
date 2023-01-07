@@ -45,3 +45,8 @@ https://www.geeksforgeeks.org/when-not-to-use-recursion-while-programming-in-pyt
 ## 10
 SLICE
 https://www.w3schools.com/python/ref_func_slice.asp#:~:text=The%20slice()%20function%20returns,slice%20only%20every%20other%20item.
+
+## 11
+MATRIZ
+
+https://panda.ime.usp.br/aulasPython/static/aulasPython/aula11.html
