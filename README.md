@@ -1,6 +1,6 @@
 # curso100dayspython
  day1to100
-# sites bons para estudar python
+# sites e referencias de estudos
 
 #0
 https://docs.python.org/3/tutorial/datastructures.html
