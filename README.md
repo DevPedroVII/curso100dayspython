@@ -39,3 +39,5 @@ https://blog.betrybe.com/python/python-for/#2
 ## 9
 WHILE TRUE
 https://www.geeksforgeeks.org/how-to-use-while-true-in-python/
+
+https://www.geeksforgeeks.org/when-not-to-use-recursion-while-programming-in-python/?ref=rp
