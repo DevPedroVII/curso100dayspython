@@ -40,3 +40,11 @@ print(f"Sum of First 10 Numbers is {Sum}")
 #Um objeto de fatia é usado para especificar como fatiar uma sequência.
 #Você pode especificar onde começar a fatiar e onde terminar.
 #Você também pode especificar a etapa, que permite, por exemplo, fatiar apenas itens alternados.
+
+#Sintaxe
+
+#slice(start, end, step) EX:
+
+a = ("a", "b", "c", "d", "e", "f", "g", "h")
+x = slice(3, 5)
+print(a[x])
