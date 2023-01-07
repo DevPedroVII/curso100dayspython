@@ -41,3 +41,7 @@ WHILE TRUE
 https://www.geeksforgeeks.org/how-to-use-while-true-in-python/
 
 https://www.geeksforgeeks.org/when-not-to-use-recursion-while-programming-in-python/?ref=rp
+
+## 10
+SLICE
+https://www.geeksforgeeks.org/when-not-to-use-recursion-while-programming-in-python/?ref=rp
