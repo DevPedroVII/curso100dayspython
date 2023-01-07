@@ -26,3 +26,11 @@ while True:
         break
 
 print(f"Sum of First 10 Numbers is {Sum}")
+
+#No exemplo acima, usamos a instrução while True para executar o
+# loop while e adicionamos uma instrução if que interromperá a execução
+# do loop quando o valor de N se tornar 0 Se não escrevermos esta instrução if,
+# então o loop será executado para sempre e começará a
+# adicionar os valores negativos de N à soma.
+
+
