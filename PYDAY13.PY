@@ -33,4 +33,10 @@ print(f"Sum of First 10 Numbers is {Sum}")
 # então o loop será executado para sempre e começará a
 # adicionar os valores negativos de N à soma.
 
+#slice() Function
 
+#A slice()função retorna um objeto de fatia.
+
+#Um objeto de fatia é usado para especificar como fatiar uma sequência.
+#Você pode especificar onde começar a fatiar e onde terminar.
+#Você também pode especificar a etapa, que permite, por exemplo, fatiar apenas itens alternados.
