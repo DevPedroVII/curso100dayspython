@@ -57,3 +57,6 @@ print(a[x])
 #Em Python, uma matriz pode ser representada como uma lista de listas,
 # onde um elemento da lista contém uma linha da matriz,
 # que por sua vez corresponde a uma lista com os elementos da coluna da matriz.
+
+
+### ESTUDAR MATRIZ NO DIA 14 ()
