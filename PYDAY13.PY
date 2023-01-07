@@ -59,4 +59,4 @@ print(a[x])
 # que por sua vez corresponde a uma lista com os elementos da coluna da matriz.
 
 
-### ESTUDAR MATRIZ NO DIA 14 ()
+### ESTUDAR MATRIZ NO DIA 14 (https://panda.ime.usp.br/aulasPython/static/aulasPython/aula11.html)
