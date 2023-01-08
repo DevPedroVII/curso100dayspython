@@ -50,3 +50,8 @@ https://www.w3schools.com/python/ref_func_slice.asp#:~:text=The%20slice()%20func
 MATRIZ
 
 https://panda.ime.usp.br/aulasPython/static/aulasPython/aula11.html
+
+## 12
+Metodos list
+
+https://panda.ime.usp.br/pensepy/static/pensepy/09-Listas/listas.html
