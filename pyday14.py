@@ -11,3 +11,8 @@
 
 #in e not in são operadores booleanos ou lógicos que testam a pertinência (membership)
 #em uma sequência. Já usamos esses operadores com strings e eles também funcionam aqui.
+
+frutas = ["maca", "laranja", "banana", "cereja"]
+
+print("maca" in frutas)
+print("pera" in frutas)
