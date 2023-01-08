@@ -18,8 +18,9 @@ print("maca" in frutas)
 print("pera" in frutas)
 
 #Listas são mutáveis
-Diferentemente de strings, listas são mutáveis (mutable).
-Isto significa que podemos alterar um item em uma lista
-acessando-o diretamente como parte do comando de atribuição.
-Usando o operador e
-indexação (colchetes) à esquerda de um comando de atribuição, podemos atualizar um dos itens de uma lista.
+#Diferentemente de strings, listas são mutáveis (mutable).
+#Isto significa que podemos alterar um item em uma lista
+#acessando-o diretamente como parte do comando de atribuição.
+#Usando o operador e
+#indexação (colchetes) à esquerda de um comando de atribuição,
+#odemos atualizar um dos itens de uma lista.
