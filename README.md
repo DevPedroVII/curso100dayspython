@@ -55,3 +55,8 @@ https://panda.ime.usp.br/aulasPython/static/aulasPython/aula11.html
 Metodos list
 
 https://panda.ime.usp.br/pensepy/static/pensepy/09-Listas/listas.html
+
+## 13
+Geral
+
+https://dadosaocubo.com/loops-em-python/
