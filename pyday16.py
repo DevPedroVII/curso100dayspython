@@ -40,4 +40,5 @@ area(10,5)
 #return = utilizado para retornar um valor calculado pelos comandos.
 # Nos dois casos é retornado o valor da variável.
 
+# yield = utilizado para
 
