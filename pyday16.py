@@ -46,3 +46,7 @@ area(10,5)
 #Devemos utilizar o yield ou o generator
 # quando há uma lista muito grande que queremos lidar, para não termos que salvar esta na memória
 
+#Lambda = As funções Lambda são chamadas de funções anônimas:
+# funções que o usuário não precisa definir,
+# ou seja, não vai precisar escrever a função e depois utilizá-la dentro do código.
+
