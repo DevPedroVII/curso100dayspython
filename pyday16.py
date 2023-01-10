@@ -25,3 +25,16 @@ def hello(meu_nome):
 
 #def = definição de função necessária para o Python entender que isso é uma função.
 
+def area(base, altura):
+
+    area = base * altura
+
+    print(area)
+
+    return area
+
+
+
+area(10,5)
+
+
