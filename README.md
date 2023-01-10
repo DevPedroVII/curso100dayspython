@@ -62,5 +62,6 @@ Geral
 https://dadosaocubo.com/loops-em-python/
 
 ## 14
+Funções
 
-
+https://www.devmedia.com.br/funcoes-em-python/37340
