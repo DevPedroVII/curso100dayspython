@@ -60,3 +60,7 @@ https://panda.ime.usp.br/pensepy/static/pensepy/09-Listas/listas.html
 Geral
 
 https://dadosaocubo.com/loops-em-python/
+
+## 14
+
+
