@@ -8,3 +8,6 @@
 
 #Resumindo
 
+#funções são blocos de código que realizam
+# determinadas tarefas que normalmente precisam ser executadas
+# diversas vezes dentro de uma aplicação.
