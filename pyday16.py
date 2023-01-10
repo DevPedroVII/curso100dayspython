@@ -15,3 +15,13 @@
 #A sintaxe de uma função é definida por três partes
 # : nome, parâmetros e corpo,
 # o qual agrupa uma sequência de linhas que representa algum comportamento.
+
+#EX
+
+def hello(meu_nome):
+  print('Olá',meu_nome)
+
+#Def ()
+
+#def = definição de função necessária para o Python entender que isso é uma função.
+
