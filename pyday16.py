@@ -43,3 +43,6 @@ area(10,5)
 # yield = Yield é basicamente uma palavra chave que é utilizada semelhante ao return
 #Porém esta função retorna um generator!
 
+#Devemos utilizar o yield ou o generator
+# quando há uma lista muito grande que queremos lidar, para não termos que salvar esta na memória
+
