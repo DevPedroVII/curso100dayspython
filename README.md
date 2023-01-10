@@ -73,3 +73,8 @@ https://www.linkedin.com/pulse/def-fun%C3%A7%C3%B5es-python-para-qu%C3%AA-e-como
 # 16
 yield
 https://horadecodar.com.br/2020/04/27/python-para-que-serve-o-yield-quando-utilizar/
+
+# 17
+Lambda
+
+https://www.hashtagtreinamentos.com/funcoes-lambda-python?gclid=CjwKCAiAk--dBhABEiwAchIwkegWG5dlaWOUC4JE17TOrdp-hKDyNqt2gVc7tKv46XaW0Rb53v-72BoCHX4QAvD_BwE
