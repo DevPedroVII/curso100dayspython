@@ -14,6 +14,7 @@ CONDITIONS
 https://www.devmedia.com.br/python-estrutura-condicional-if-else/38217
 
 ## 3
+pesquisas
 https://www.askpython.com/
 
 ## 4
