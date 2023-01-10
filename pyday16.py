@@ -5,3 +5,6 @@
 # quer sejam as que nós mesmos escrevemos para as rotinas especificas ou
 # aquelas já disponibilizadas pela linguagem de programação escolhida,
 # suas bibliotecas e frameworks.
+
+#Resumindo
+
