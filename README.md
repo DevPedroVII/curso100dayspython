@@ -68,3 +68,7 @@ https://www.devmedia.com.br/funcoes-em-python/37340
 
 # 15 DEF
 https://www.linkedin.com/pulse/def-fun%C3%A7%C3%B5es-python-para-qu%C3%AA-e-como-usar-paulo-chostakovis-filho/?trk=read_related_article-card_title
+
+# 16
+yield
+https://horadecodar.com.br/2020/04/27/python-para-que-serve-o-yield-quando-utilizar/
