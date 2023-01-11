@@ -78,3 +78,8 @@ https://horadecodar.com.br/2020/04/27/python-para-que-serve-o-yield-quando-utili
 Lambda
 
 https://www.hashtagtreinamentos.com/funcoes-lambda-python?gclid=CjwKCAiAk--dBhABEiwAchIwkegWG5dlaWOUC4JE17TOrdp-hKDyNqt2gVc7tKv46XaW0Rb53v-72BoCHX4QAvD_BwE
+
+# 18
+tuplas
+
+https://www.alura.com.br/artigos/conhecendo-as-tuplas-no-python?gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNk6f07Q_ItGv_99dEgUEU2kiQUhX6JPHLoMSJlTKKqd_3o7ITPWgksaAqr1EALw_wcB
