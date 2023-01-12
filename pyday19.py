@@ -23,3 +23,12 @@ z = {"c", "d", "e"}
 result = x.union(y, z)
 
 print(result)
+
+#discard() Parameters
+#A função de discard do python leva um único
+#parâmetro do usuário. O parâmetro é 'x'.
+#O elemento é descartado se estiver presente no conjunto.
+
+#O valor de retorno do discard() é o elemento que é removido.
+# Se o elemento  mencionado pelo usuário não estiver presente no conjunto,
+# então o método de descarte retorna None.
