@@ -10,3 +10,5 @@
 # e não são considerados sequências como as tuplas e as listas.
 # Eles também não suportam indexação e slicing. Assim,
 # os itens de um set são retornados em uma ordem diferente cada vez que acessamos o conjunto todo.
+planeta_anao = {'Plutão','Ceres','Eris','Haumea','Makemake'}
+print(planeta_anao)
