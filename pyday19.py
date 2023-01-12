@@ -32,3 +32,20 @@ print(result)
 #O valor de retorno do discard() é o elemento que é removido.
 # Se o elemento  mencionado pelo usuário não estiver presente no conjunto,
 # então o método de descarte retorna None.
+
+numbers = {2, 3, 4, 5}
+
+
+numbers.discard(3)
+
+print('numbers = ', numbers)
+
+
+
+numbers.discard(10)
+
+print('numbers = ', numbers)
+
+
+
+
