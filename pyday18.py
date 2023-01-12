@@ -19,3 +19,9 @@ print(planeta_anao)
 
 qtde_planetas = len(planeta_anao)
 print(qtde_planetas)
+
+#É possível verificar se um conjunto possui um valor em particular com os operadores in e not in:
+
+print('Ceres' in planeta_anao)
+print('Lua' in planeta_anao)
+print('Eris' not in planeta_anao)
