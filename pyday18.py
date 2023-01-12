@@ -12,3 +12,5 @@
 # os itens de um set são retornados em uma ordem diferente cada vez que acessamos o conjunto todo.
 planeta_anao = {'Plutão','Ceres','Eris','Haumea','Makemake'}
 print(planeta_anao)
+
+#Criamos um conjunto atribuindo seus elementos, separados por vírgulas e entre chaves, a uma variável.
