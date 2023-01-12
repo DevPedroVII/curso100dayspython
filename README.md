@@ -88,3 +88,8 @@ https://www.alura.com.br/artigos/conhecendo-as-tuplas-no-python?gclid=Cj0KCQiAtv
 Packaging
 
 https://packaging.python.org/pt_BR/latest/overview/
+
+# 20
+Set
+
+http://www.bosontreinamentos.com.br/programacao-em-python/sets-conjuntos-em-python/
