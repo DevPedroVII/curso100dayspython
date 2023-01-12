@@ -99,5 +99,6 @@ UNION
 https://www.w3schools.com/python/ref_set_union.asp
 
 # 22
-
+DISCARD
+https://www.toppr.com/guides/python-guide/references/methods-and-functions/methods/set/discard/python-set-discard/#:~:text=In%20Python%2C%20the%20discard(),()%20function%20raises%20an%20error.
 
