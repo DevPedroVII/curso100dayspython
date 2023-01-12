@@ -14,3 +14,5 @@ planeta_anao = {'Plutão','Ceres','Eris','Haumea','Makemake'}
 print(planeta_anao)
 
 #Criamos um conjunto atribuindo seus elementos, separados por vírgulas e entre chaves, a uma variável.
+
+#Podemos descobrir o tamanho de um conjunto (número de elementos) com a função len():
