@@ -15,3 +15,11 @@ print(z)
 
 #Sintaxe
 #set.union(set1, set2...)
+
+x = {"a", "b", "c"}
+y = {"f", "d", "a"}
+z = {"c", "d", "e"}
+
+result = x.union(y, z)
+
+print(result)
