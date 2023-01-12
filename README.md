@@ -83,3 +83,6 @@ https://www.hashtagtreinamentos.com/funcoes-lambda-python?gclid=CjwKCAiAk--dBhAB
 tuplas
 
 https://www.alura.com.br/artigos/conhecendo-as-tuplas-no-python?gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNk6f07Q_ItGv_99dEgUEU2kiQUhX6JPHLoMSJlTKKqd_3o7ITPWgksaAqr1EALw_wcB
+
+# 19
+
