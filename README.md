@@ -95,5 +95,9 @@ Set
 http://www.bosontreinamentos.com.br/programacao-em-python/sets-conjuntos-em-python/
 
 # 21
-
+UNION
 https://www.w3schools.com/python/ref_set_union.asp
+
+# 22
+
+
