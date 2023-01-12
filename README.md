@@ -86,3 +86,4 @@ https://www.alura.com.br/artigos/conhecendo-as-tuplas-no-python?gclid=Cj0KCQiAtv
 
 # 19
 
+https://packaging.python.org/pt_BR/latest/overview/
