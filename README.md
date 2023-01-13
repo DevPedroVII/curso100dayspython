@@ -103,5 +103,8 @@ DISCARD
 
 https://www.toppr.com/guides/python-guide/references/methods-and-functions/methods/set/discard/python-set-discard/#:~:text=In%20Python%2C%20the%20discard(),()%20function%20raises%20an%20error.
 
+# 23
+Dicionarios
 
+https://pythonacademy.com.br/blog/dicts-ou-dicionarios-no-python#o-m%C3%A9todo-dictsetdefault
 
