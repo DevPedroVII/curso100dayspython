@@ -42,3 +42,4 @@ nome_Idade = {
     'Mario': 25
 }
 
+# posso mudar colocando nome_Idade ['maria'] = X valor
