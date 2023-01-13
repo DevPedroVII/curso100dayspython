@@ -34,3 +34,6 @@
 
 
 #dicio_5 = dict({'primeiro': 1, 'segundo':  2, 'terceiro': 3})
+
+#Dicionários também contam com um método chamado get() que fornecerá o mesmo resultado
+
