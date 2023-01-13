@@ -37,3 +37,8 @@
 
 #Dicionários também contam com um método chamado get() que fornecerá o mesmo resultado
 
+nome_Idade = {
+    'Maria': 50,
+    'Mario': 25
+}
+
