@@ -108,3 +108,8 @@ Dicionarios
 
 https://pythonacademy.com.br/blog/dicts-ou-dicionarios-no-python#o-m%C3%A9todo-dictsetdefault
 
+# 24
+Python tutor
+
+https://pythontutor.com/visualize.html#mode=edit
+
