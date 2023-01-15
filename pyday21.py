@@ -5,3 +5,6 @@
 #As ligações do Selenium Python fornecem uma API conveniente para acessar Selenium WebDrivers como Firefox,
 # Ie, Chrome, Remote etc. As versões atuais do Python suportadas são 3.5 e superiores.
 #Esta documentação explica a API Selenium 2 WebDriver. Selenium 1 / Selenium RC API não é abordado aqui.
+
+#Use pip para instalar o pacote Selenium. Python 3 tem pip disponível na biblioteca padrão .
+
