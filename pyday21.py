@@ -8,3 +8,4 @@
 
 #Use pip para instalar o pacote Selenium. Python 3 tem pip disponível na biblioteca padrão .
 
+# pip install selenium
