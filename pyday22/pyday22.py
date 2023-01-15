@@ -1,3 +1,3 @@
-from selenium.webdriver import google
+from selenium.webdriver import Chrome
 
-browser =  google ()
+browser = Chrome ()
