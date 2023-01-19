@@ -50,7 +50,7 @@ with open('testing_copy.py', 'w') as file:
     for x in f2:
       file.write("    " + x)
 
-import testing_copy
+
 import unittest
 from unittest.mock import patch
 from io import StringIO
