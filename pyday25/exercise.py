@@ -45,7 +45,7 @@ else:
 
 with open('testing_copy.py', 'w') as file:
   file.write('def test_func():\n')
-  with open('main.py', 'r') as original:
+  with open('exercise.py', 'r') as original:
     f2 = original.readlines()[0:40]
     for x in f2:
       file.write("    " + x)
