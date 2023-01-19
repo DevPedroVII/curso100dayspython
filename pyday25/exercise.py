@@ -51,6 +51,7 @@ with open('testing_copy.py', 'w') as file:
       file.write("    " + x)
 
 
+import testing_copy
 import unittest
 from unittest.mock import patch
 from io import StringIO
