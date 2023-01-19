@@ -2,7 +2,7 @@
 year = int(input("Which year do you want to check? "))
 # 🚨 Don't change the code above 👆
 
-#Refer to the flow chart here: https://bit.ly/36BjS2D
+
 
 
 if year % 4 == 0:
