@@ -27,3 +27,9 @@
 
 #list.clear()
 #Remove todos os itens de uma lista. Equivalente a del a[:].
+
+#list.reverse()
+#Inverte a ordem dos elementos na lista.
+
+list.copy()
+Devolve uma cópia rasa da lista. Equivalente a a[:].
