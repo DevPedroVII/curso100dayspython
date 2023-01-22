@@ -113,3 +113,7 @@ Python tutor
 
 https://pythontutor.com/visualize.html#mode=edit
 
+# 25
+Estrutura de Dados
+
+https://docs.python.org/pt-br/dev/tutorial/datastructures.html
