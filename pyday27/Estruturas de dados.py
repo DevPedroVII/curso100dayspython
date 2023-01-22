@@ -33,3 +33,5 @@
 
 #list.copy()
 #Devolve uma cópia rasa da lista. Equivalente a a[:].
+
+#example
