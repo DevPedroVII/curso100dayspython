@@ -31,5 +31,5 @@
 #list.reverse()
 #Inverte a ordem dos elementos na lista.
 
-list.copy()
-Devolve uma cópia rasa da lista. Equivalente a a[:].
+#list.copy()
+#Devolve uma cópia rasa da lista. Equivalente a a[:].
