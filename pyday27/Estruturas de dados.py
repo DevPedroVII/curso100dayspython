@@ -16,3 +16,14 @@
 #list.remove(x)
 #Remove o primeiro item encontrado na lista cujo valor é igual a x.
 # Se não existir valor igual, uma exceção ValueError é levantada.
+
+
+#list.pop([i])
+#Remove um item em uma dada posição na lista e o retorna.
+#Se nenhum índice é especificado, a.pop() remove e devolve o último item da lista.
+#(Os colchetes ao redor do i na demonstração do método indica que o parâmetro é opcional,
+#e não que é necessário escrever estes colchetes ao chamar o método.
+# Você verá este tipo de notação frequentemente na Biblioteca de Referência Python.)
+
+#list.clear()
+#Remove todos os itens de uma lista. Equivalente a del a[:].
