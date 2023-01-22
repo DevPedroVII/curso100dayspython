@@ -1,10 +1,29 @@
 import discord
 from discord.ext import commands
 
+bot = commands("!")
 
-bot = commands.Bot("!")
 
+@bot.event
 async def on_ready():
-    print("MIMDE PAPAI")
+      print(f"MIMDE PAPAI {bot.user}")
+@bot.event
+async def on_message(message):
+        if message.author == bot.user:
+            return
+        if "não" in message.content:
+            await message.channel.send(f"MIM DE FARINHA,{message.author.name}, OU VOU TE PEGAR HOJE DE NOITE")
 
-bot.run("MTA2NjgzMTM1NzUyOTA1MTI2OQ.GWGVDE.rLXF190LxzvQyFXMNqlfpgHMh3OVtbrJ4Qb9E8")
+            await bot.process_command(message)
+
+
+
+
+
+@bot.command(name ="oi")
+async def pedir_farinha(ctx):
+  name = ctx.author.name
+  reposta = "Me dê!" + name
+  await ctx.send(reposta)
+
+bot.run("")
