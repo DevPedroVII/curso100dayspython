@@ -122,3 +122,6 @@ https://docs.python.org/pt-br/dev/tutorial/datastructures.html
 Python Levado a Sério: Conselhos de um Faixa-preta Sobre Implantação, Escalabilidade, Testes e Outros Assuntos
 
 https://www.amazon.com.br/dp/6586057175?psc=1&ref=ppx_yo2ov_dt_b_product_details
+
+# 27
+Python para data science para leigos: os primeiros passos para o sucesso Capa comum
