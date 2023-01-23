@@ -117,3 +117,7 @@ https://pythontutor.com/visualize.html#mode=edit
 Estrutura de Dados
 
 https://docs.python.org/pt-br/dev/tutorial/datastructures.html
+
+# 26
+Python Levado a Sério: Conselhos de um Faixa-preta Sobre Implantação, Escalabilidade, Testes e Outros Assuntos
+
