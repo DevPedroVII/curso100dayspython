@@ -129,3 +129,4 @@ https://www.amazon.com.br/Python-para-data-science-leigos/dp/855081587X/ref=asc_
 
 # 28
 
+Python Brasil
