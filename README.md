@@ -126,3 +126,6 @@ https://www.amazon.com.br/dp/6586057175?psc=1&ref=ppx_yo2ov_dt_b_product_details
 # 27
 Python para data science para leigos: os primeiros passos para o sucesso Capa comum
 https://www.amazon.com.br/Python-para-data-science-leigos/dp/855081587X/ref=asc_df_855081587X/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802390&hvpos=&hvnetw=g&hvrand=1947625668871159882&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001521&hvtargid=pla-1183877594067&psc=1
+
+# 28
+
