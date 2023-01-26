@@ -6,4 +6,4 @@ app = Flask(__name__)
 def homepage():
     return  "eu te amo meu amor S2"
 
-app.run()
+app.run(debug = True)
