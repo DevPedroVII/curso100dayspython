@@ -11,3 +11,6 @@
  # <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>,
  # <datalist>, <details>, <embed>, <nav>, <output>, <progress>,
  # <video>, <ul>, <ol>e <li>muitos outros.
+
+
+# for more https://developer.mozilla.org/en-US/docs/Web/HTML
