@@ -132,3 +132,10 @@ https://www.amazon.com.br/Python-para-data-science-leigos/dp/855081587X/ref=asc_
 Python Brasil
 
 https://python.org.br/
+
+# 29
+
+
+HTML
+
+https://www.w3schools.com/html/
