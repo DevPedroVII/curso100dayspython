@@ -16,3 +16,4 @@ average_height = round(total_height / number_of_students)
 print(average_height)
 
 #this code it measures the average height
+#the idea of the code is to use knowledge of FOR loops
