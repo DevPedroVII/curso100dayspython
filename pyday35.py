@@ -5,3 +5,5 @@ for number in range(2, 101, 2):
 print(even_sum)
 
 #or
+
+# alternative_sum = 0
