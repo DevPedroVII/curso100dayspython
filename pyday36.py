@@ -17,3 +17,5 @@ navegador.quit()
 
 for click in range(10) :
     a.click()
+
+print(F'valor de p {p.text} valor do click ')p.text == click
