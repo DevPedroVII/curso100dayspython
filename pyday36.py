@@ -14,3 +14,6 @@ print(f'texto a:{a.text} ')
 print(f'texto p:{p.text} ')
 
 navegador.quit()
+
+for click in range(10) :
+    a.click()
