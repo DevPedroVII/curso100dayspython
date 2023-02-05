@@ -18,4 +18,5 @@ while not end_of_game:
     guess = input("Guess a letter: ").lower()
 if guess in display:
         print(f"You've already guessed {guess}")
-
+for position in range(word_length):
+        letter = chosen_word[position]
