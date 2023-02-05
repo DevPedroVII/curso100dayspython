@@ -10,3 +10,7 @@ lives = 6
 
 from hangman_art import logo
 print(logo)
+
+display = []
+for _ in range(word_length):
+    display += "_"
