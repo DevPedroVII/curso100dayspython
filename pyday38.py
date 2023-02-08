@@ -1,6 +1,11 @@
 from selenium.webdriver import Chrome
 
-browser.find_element_by_tag_name()
+def find_by_tag_name(browser, tag, text):
+    elemento = browser.find_element_by_tag_name(tag)
+
+    for elemento in elemento:
+        if elemento.text
+
 
 browser = Chrome ()
 
