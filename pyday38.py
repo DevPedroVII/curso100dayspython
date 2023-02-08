@@ -1,10 +1,10 @@
 from selenium.webdriver import Chrome
 
+browser.find_element_by_tag_name()
+
 browser = Chrome ()
 
 browser.get('http://selenium.dunossauro.live/aula_04_a.html')
-
-browser.find_element_by_tag_name()
 
 lista_n_ordenada = browser.find_element_by_tag_name('ul')
 
