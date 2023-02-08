@@ -5,6 +5,7 @@ def find_by_tag_name(browser, tag, text):
 
     for elemento in elemento:
         if elemento.text == text:
+            return elemento
 
 
 browser = Chrome ()
