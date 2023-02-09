@@ -11,9 +11,10 @@ def find_by_tag_name(browser, tag, text):
 
 
 
-def find_by_href(browser, tag, text):
+
 browser.get('http://selenium.dunossauro.live/aula_04_a.html')
 
+def find_by_href(browser, link):
 
 elemento_Cho = find_by_text(browser,"a","Chrome")
 
