@@ -1,5 +1,6 @@
 from selenium.webdriver import Chrome
 
+browser = Chrome ()
 
 def find_by_tag_name(browser, tag, text):
     elemento = browser.find_element_by_tag_name(tag)
