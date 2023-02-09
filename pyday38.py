@@ -1,5 +1,6 @@
 from selenium.webdriver import Chrome
 
+
 def find_by_tag_name(browser, tag, text):
     elemento = browser.find_element_by_tag_name(tag)
 
@@ -8,11 +9,14 @@ def find_by_tag_name(browser, tag, text):
             return elemento
 
 
-browser = Chrome ()
 
+def find_by_href(browser, tag, text):
 browser.get('http://selenium.dunossauro.live/aula_04_a.html')
 
-elemento_Cho = find_by_text(browser,"Li","Chrome")
+
+elemento_Cho = find_by_text(browser,"a","Chrome")
+
+
 
 lista_n_ordenada = browser.find_element_by_tag_name('ul')
 
