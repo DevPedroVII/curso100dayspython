@@ -15,4 +15,4 @@ def gerar_nome():
     nome = choice(['Joao', 'Maria', 'Jose', 'Eduardo', 'Sergio', 'Rafael', 'Paulo', 'Mateus','Lucas', 'Guilherme',
                    'Felipe', 'Arthur', 'Heitor', 'Bernardo', 'Davi', 'Thiago', 'Pedro', 'Gabriel', 'Enzo', 'Lucas',
                    'Matheus', 'Rafael', 'Heitor', 'Enzo Gabriel', 'Felipe', 'Samuel', 'Guilherme', 'Joaquim', 'Nicolas',
-                    'Gustavo', 'Lorenzo'
+                    'Gustavo', 'Lorenzo'])
