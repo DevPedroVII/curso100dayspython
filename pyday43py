@@ -4,3 +4,5 @@ import matplotlib.pyplot as plt
 img = np.random.normal(0, 1, (512, 512))
 
 plt.imshow(img, cmap="gray")
+
+plt.show()
