@@ -13,3 +13,6 @@ api = tweepy.API(auth)
 
 responses = ["Resposta 1", "Resposta 2", "Resposta 3", "Resposta 4", "Resposta 5"]
 
+mentions = api.mentions_timeline()
+for mention in mentions:
+
