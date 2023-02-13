@@ -10,3 +10,6 @@ auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 
 api = tweepy.API(auth)
+
+responses = ["Resposta 1", "Resposta 2", "Resposta 3", "Resposta 4", "Resposta 5"]
+
