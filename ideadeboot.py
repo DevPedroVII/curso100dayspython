@@ -16,3 +16,11 @@ responses = ["Resposta 1", "Resposta 2", "Resposta 3", "Resposta 4", "Resposta 5
 mentions = api.mentions_timeline()
 for mention in mentions:
 
+   if not mention.favorited:
+        # Marque o tweet como favorito
+        mention.favorite()
+        # Gere uma resposta aleatória
+        response = random.choice(responses)
+        # Responda ao tweet
+        api.update_status(f"@{mention.user.screen_name} {response}", mention.id)
+
