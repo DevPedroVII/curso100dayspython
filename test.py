@@ -5,3 +5,5 @@ driver = webdriver.Chrome()
 driver.get('https://www.example.com')
 
 assert 'Example Domain' in driver.title
+
+driver.quit()
