@@ -12,3 +12,5 @@ driver.quit()
 # Cria uma instância do driver do Chrome
 
 # Abre a página que deseja testar
+
+# Verifica se a página carregou corretamente
