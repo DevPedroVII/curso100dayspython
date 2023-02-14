@@ -14,3 +14,5 @@ driver.quit()
 # Abre a página que deseja testar
 
 # Verifica se a página carregou corretamente
+
+# Encerra o driver
