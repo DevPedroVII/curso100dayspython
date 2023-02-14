@@ -7,3 +7,6 @@ driver.get('https://www.example.com')
 assert 'Example Domain' in driver.title
 
 driver.quit()
+
+
+# Cria uma instância do driver do Chrome
