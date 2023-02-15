@@ -3,4 +3,4 @@ celsius = (fahrenheit - 32) * 5/9
 print("A temperatura em Celsius é:", celsius)
 
 
-#ideia do conversor fahrenheit
+#ideia do conversor fahrenheit to celsius
