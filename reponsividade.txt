@@ -5,4 +5,5 @@ Use um framework responsivo:
 
 
  Use unidades relativas para medidas: Usar unidades relativas,
- como porcentagem ou em, em vez de medidas absolutas, como pixels, permite que o conteúdo do site se adapte a diferentes tamanhos de tela.
+ como porcentagem ou em, em vez de medidas absolutas, como pixels,
+ permite que o conteúdo do site se adapte a diferentes tamanhos de tela.
