@@ -1,0 +1,8 @@
+Use um framework responsivo:
+ Existem muitos frameworks responsivos populares disponíveis, como o Bootstrap e o Foundation. Esses
+ frameworks fornecem uma base sólida para a
+ criação de sites responsivos, com uma grade de layout flexível e componentes pré-construídos.
+
+
+ Use unidades relativas para medidas: Usar unidades relativas,
+ como porcentagem ou em, em vez de medidas absolutas, como pixels, permite que o conteúdo do site se adapte a diferentes tamanhos de tela.
