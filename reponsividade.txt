@@ -7,3 +7,7 @@ Use um framework responsivo:
  Use unidades relativas para medidas: Usar unidades relativas,
  como porcentagem ou em, em vez de medidas absolutas, como pixels,
  permite que o conteúdo do site se adapte a diferentes tamanhos de tela.
+
+
+ Adapte o layout do site para diferentes tamanhos de tela: O layout do site deve se adaptar a diferentes tamanhos de tela, de modo que o conteúdo possa ser facilmente visualizado em dispositivos móveis, tablets e desktops. Por exemplo, em telas menores,
+  os elementos da interface devem ser reduzidos e a ordem de apresentação do conteúdo deve ser modificada.
