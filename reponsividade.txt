@@ -19,3 +19,6 @@ Use um framework responsivo:
 Use CSS Media Queries para definir regras de estilo com base no tamanho da tela:
 As Media Queries permitem que você defina regras de estilo diferentes para diferentes
 tamanhos de tela, permitindo que o conteúdo do site se adapte às diferentes visualizações de tela.
+
+Teste o site em diferentes dispositivos: É importante testar o site em dispositivos móveis, tablets
+ e desktops para garantir que ele esteja funcionando corretamente em todas as visualizações de tela.
