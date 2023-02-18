@@ -1,0 +1,15 @@
+get(url) - carrega uma página da web fornecendo sua URL.
+find_element_by_*() - localiza um elemento no DOM da página da web com base em vários critérios (por exemplo, nome, ID, classe, link de texto, tag, XPath, CSS).
+send_keys(keys) - insere um texto ou pressiona uma tecla em um elemento selecionado.
+click() - clica em um elemento selecionado.
+clear() - limpa o texto em um elemento selecionado.
+submit() - envia um formulário selecionado.
+back() - navega de volta para a página anterior.
+forward() - navega para a próxima página no histórico de navegação.
+refresh() - atualiza a página atual.
+switch_to_*() - alterna para diferentes janelas ou quadros.
+execute_script(script) - executa um script JavaScript na página atual.
+get_cookies() - obtém os cookies atuais da página.
+add_cookie(cookie_dict) - adiciona um cookie à página atual.
+delete_cookie(name) - exclui um cookie específico da página atual.
+quit() - fecha o navegador atual e encerra a sessão do driver.
