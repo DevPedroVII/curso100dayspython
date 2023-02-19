@@ -149,5 +149,5 @@ https://www.w3schools.com/python/ref_func_range.asp
 
 documentação para Selenium
 
-
+https://www.selenium.dev/selenium/docs/api/py/api.html
 
