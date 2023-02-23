@@ -153,6 +153,6 @@ https://www.selenium.dev/selenium/docs/api/py/api.html
 
 # 32
 
-bibliotecas
+bibliotecas de py
 
 https://docs.python.org/pt-br/3/library/
