@@ -8,7 +8,9 @@ Contribua regularmente para projetos de código aberto: Contribuir para projetos
  aberto pode mostrar suas habilidades e interesses para outros desenvolvedores.
  Isso também pode ajudar a expandir sua rede e se conectar com outros profissionais da área.
 
-Crie seus próprios projetos: Criar seus próprios projetos no GitHub pode mostrar suas habilidades de desenvolvimento e criatividade. Certifique-se de criar um README detalhado para explicar o que o projeto faz e como usá-lo.
+Crie seus próprios projetos: Criar seus próprios projetos no GitHub pode mostrar suas
+habilidades de desenvolvimento e criatividade. Certifique-se de criar um README detalhado
+para explicar o que o projeto faz e como usá-lo.
 
 Mantenha seus repositórios atualizados: Mantenha seus repositórios atualizados com código limpo e fácil de entender. Certifique-se de adicionar documentação e instruções para facilitar o uso por outros desenvolvedores.
 
