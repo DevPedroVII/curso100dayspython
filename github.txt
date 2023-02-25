@@ -12,7 +12,9 @@ Crie seus próprios projetos: Criar seus próprios projetos no GitHub pode mostr
 habilidades de desenvolvimento e criatividade. Certifique-se de criar um README detalhado
 para explicar o que o projeto faz e como usá-lo.
 
-Mantenha seus repositórios atualizados: Mantenha seus repositórios atualizados com código limpo e fácil de entender. Certifique-se de adicionar documentação e instruções para facilitar o uso por outros desenvolvedores.
+Mantenha seus repositórios atualizados: Mantenha seus repositórios atualizados com código limpo e
+fácil de entender. Certifique-se de adicionar documentação e instruções para facilitar
+ o uso por outros desenvolvedores.
 
 Use um perfil profissional: Use uma foto de perfil profissional e um nome de usuário fácil de lembrar. Isso pode ajudar a criar uma marca pessoal e torná-lo mais fácil de encontrar por outros desenvolvedores.
 
