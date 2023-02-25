@@ -1,6 +1,8 @@
 Para tornar seu perfil do GitHub mais atraente, aqui estão algumas sugestões:
 
-Adicione uma descrição ao seu perfil: Adicione uma breve descrição ao seu perfil para explicar quem você é e o que você faz. Isso pode ajudar os visitantes a entender melhor suas contribuições e interesses.
+Adicione uma descrição ao seu perfil: Adicione uma breve descrição ao seu perfil para explicar
+quem você é e o que você faz. Isso pode ajudar os visitantes
+a entender melhor suas contribuições e interesses.
 
 Contribua regularmente para projetos de código aberto: Contribuir para projetos de código aberto pode mostrar suas habilidades e interesses para outros desenvolvedores. Isso também pode ajudar a expandir sua rede e se conectar com outros profissionais da área.
 
