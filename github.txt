@@ -4,7 +4,9 @@ Adicione uma descrição ao seu perfil: Adicione uma breve descrição ao seu pe
 quem você é e o que você faz. Isso pode ajudar os visitantes
 a entender melhor suas contribuições e interesses.
 
-Contribua regularmente para projetos de código aberto: Contribuir para projetos de código aberto pode mostrar suas habilidades e interesses para outros desenvolvedores. Isso também pode ajudar a expandir sua rede e se conectar com outros profissionais da área.
+Contribua regularmente para projetos de código aberto: Contribuir para projetos de código
+ aberto pode mostrar suas habilidades e interesses para outros desenvolvedores.
+ Isso também pode ajudar a expandir sua rede e se conectar com outros profissionais da área.
 
 Crie seus próprios projetos: Criar seus próprios projetos no GitHub pode mostrar suas habilidades de desenvolvimento e criatividade. Certifique-se de criar um README detalhado para explicar o que o projeto faz e como usá-lo.
 
