@@ -1,1 +1,7 @@
 o que é xpath?
+
+
+XPath (XML Path Language) é uma linguagem de
+consulta usada para selecionar elementos em um documento XML.
+ É uma linguagem de expressão de caminho que permite
+navegar e buscar dados em um documento XML de forma estruturada.
