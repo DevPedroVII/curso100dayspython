@@ -11,3 +11,8 @@ navegar e buscar dados em um documento XML de forma estruturada.
    em várias tecnologias, incluindo XSLT, XQuery e XML Schema.
     Ele permite selecionar elementos com base em seus nomes de tag, atributos e valores de atributo,
  bem como em suas posições, relação com outros nós e tipos.
+
+O XPath também suporta operadores, funções e eixos para selecionar
+e manipular dados de forma mais avançada.
+ O XPath é usado em muitos contextos, incluindo desenvolvimento web,
+ análise de dados e processamento de documentos XML.
