@@ -5,3 +5,9 @@ XPath (XML Path Language) é uma linguagem de
 consulta usada para selecionar elementos em um documento XML.
  É uma linguagem de expressão de caminho que permite
 navegar e buscar dados em um documento XML de forma estruturada.
+
+ O XPath é semelhante ao SQL para bancos de dados relacionais e
+  é usado para selecionar e manipular dados em documentos XML
+   em várias tecnologias, incluindo XSLT, XQuery e XML Schema.
+    Ele permite selecionar elementos com base em seus nomes de tag, atributos e valores de atributo,
+ bem como em suas posições, relação com outros nós e tipos.
