@@ -16,9 +16,10 @@ Mantenha seus repositórios atualizados: Mantenha seus repositórios atualizados
 fácil de entender. Certifique-se de adicionar documentação e instruções para facilitar
  o uso por outros desenvolvedores.
 
-Use um perfil profissional: Use uma foto de perfil profissional e um nome de usuário fácil de lembrar. Isso pode ajudar a criar uma marca pessoal e torná-lo mais fácil de encontrar por outros desenvolvedores.
-
-Compartilhe seus projetos nas redes sociais: Compartilhe seus projetos nas redes sociais para atrair mais atenção e receber feedback. Certifique-se de usar hashtags relevantes para aumentar a visibilidade.
+Use um perfil profissional: Use uma foto de perfil profissional e um nome de usuário fácil de lembrar. Isso pode ajudar
+a criar uma marca pessoal e torná-lo mais fácil de encontrar por outros desenvolvedores.
+Compartilhe seus projetos nas redes sociais: Compartilhe seus projetos nas redes sociais para atrair mais atenção
+e receber feedback. Certifique-se de usar hashtags relevantes para aumentar a visibilidade.
 
 Colabore com outros desenvolvedores: Colaborar com outros desenvolvedores pode mostrar suas habilidades de trabalho em equipe e ajudá-lo a aprender novas habilidades e tecnologias.
 
