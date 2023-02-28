@@ -24,25 +24,3 @@ Teste o site em diferentes dispositivos: É importante testar o site em disposit
  e desktops para garantir que ele esteja funcionando corretamente em todas as visualizações de tela.
 
 
-Learn for free in 2023:
-
-1. HTML
- html.com
-
-2. CSS
-css-tricks.com
-
-3. JavaScript
-javascript.info
-
-3. Git & GitHub
-git-scm.com
-
-6. React
-react-tutorial.app
-
-7. APIs
-rapidapi.com
-
-8. SQL
-sqlbolt.com
